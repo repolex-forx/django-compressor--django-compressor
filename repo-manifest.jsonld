@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/django-compressor/django-compressor/commit/1490427055617133e55de995080953b50c7cd996",
       "git:hexsha": "1490427055617133e55de995080953b50c7cd996",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/django-compressor/django-compressor/commit/3b5fc5204c13f5aef90270fe5ca9fc63d784fa74",
