@@ -1,0 +1,11 @@
+{
+  "org": "django-compressor",
+  "repo": "django-compressor",
+  "versions": [
+    {
+      "commit": "1490427055617133e55de995080953b50c7cd996",
+      "tag": "",
+      "parsed_at": "2026-10-18T13:19:32.877154+00:00"
+    }
+  ]
+}
